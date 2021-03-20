@@ -79,7 +79,7 @@ ipython==2.4.1
 ipython-genutils==0.2.0
 isort==4.2.14
 itsdangerous==0.24
-Jinja2==2.9.5
+Jinja2==2.11.3
 jsonschema==2.6.0
 jupyter-core==4.3.0
 language-selector==0.1
