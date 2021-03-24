@@ -139,7 +139,7 @@ repoze.lru==0.6
 requests==2.17.3
 restructuredtext-lint==1.0.1
 Routes==2.2
-rsa==3.4.2
+rsa==4.1
 rstcheck==2.2
 ruamel.yaml==0.10.23
 s3-saver==0.1.3
