@@ -180,7 +180,7 @@ unity-scope-yelp==0.1
 unity-scope-zotero==0.1
 unity-tweak-tool==0.0.7
 url-for-s3==0.1.1
-urllib3==1.21.1
+urllib3==1.26.5
 usb-creator==0.3.0
 validators==0.11.3
 virtualenv==15.0.1
