@@ -69,7 +69,7 @@ guacamole==0.9.2
 guess-language-spirit==0.5.3
 gunicorn==19.7.1
 html-linter==0.3.0
-html5lib==0.999
+html5lib==0.999999999
 httplib2==0.9.1
 idna==2.5
 imagesize==0.7.1
