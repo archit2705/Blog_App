@@ -106,7 +106,7 @@ Pillow==4.1.0
 plainbox==0.25
 polib==1.0.8
 proselint==0.7.0
-protobuf==3.2.0
+protobuf==3.18.3
 psutil==3.4.2
 pyasn1==0.1.9
 pyasn1-modules==0.0.8
